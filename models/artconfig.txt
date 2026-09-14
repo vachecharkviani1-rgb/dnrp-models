@@ -1,0 +1,10 @@
+AddSimpleModel(-1, 1337, -29994, "phone.dff", "phone_nice.txd");
+AddSimpleModel(-1, 1337, -29995, "phone.dff", "phone.txd");
+AddSimpleModel(-1, 5168, -9531, "object.dff", "serverui.txd");
+// Fuel — paths relative to models/ (files live in models/fuel/)
+AddSimpleModel(-1, 1337, -29988, "fuel/pump_none.dff", "fuel/pumps.txd");
+AddSimpleModel(-1, 1337, -29989, "fuel/pump_ron.dff", "fuel/pumps.txd");
+AddSimpleModel(-1, 1337, -29990, "fuel/pump_globeoil.dff", "fuel/pumps.txd");
+AddSimpleModel(-1, 1337, -29991, "fuel/pump_terroil.dff", "fuel/pumps.txd");
+AddSimpleModel(-1, 1337, -29992, "fuel/pump_none.dff", "fuel/fuel.txd");
+AddSimpleModel(-1, 1337, -30001, "fuel/pump_none.dff", "fuel/jerrycan.txd");
